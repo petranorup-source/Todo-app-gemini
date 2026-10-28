@@ -1,0 +1,6 @@
+{
+  "name": "Listify - Collaborative Lists & Todos",
+  "description": "A modern, responsive browser todo and list organizer featuring collapsible sections, item comments, custom tags, contributor sharing, color theming, and undo/redo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
